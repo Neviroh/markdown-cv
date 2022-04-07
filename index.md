@@ -7,47 +7,37 @@ title: Vladislav Lipatov
 
 ## Currently
 
-At [iiko](https://iikosoftware.com), developing powerfull loyalty system for restaurants abd caffes of any kind to keep and expand customers count using marketing campaigns, discounts, bonuses programs, notifications etc.
+At [iiko](https://iikosoftware.com), developing powerfull loyalty system for restaurants of any kind to keep and expand customers count using marketing campaigns, discounts, bonuses programs, notifications etc.
 
-Specialized in backend development of .Net core services, planning and evaluatin of services architecture and API, maintaining services stability, locating and fixing of existing problems through communtations with the support team, and expanding software's functionality.
+Specialized in backend development of .Net core services.
 
-My strengths are involvement in the process, initiative, ability to mentor, ability communicate with different teams inside the company, interest in the success of the product and its convenience for customers, as well as the desire to grow as a specialist and the ability to learn, including from one's own mistakes. I highly value simplicity and extensibility of the code, always focus on the SOLID principles where it's possible and appropriate. 
+In my opinion, my main strengths are: 
+* initiative, genuine care about the product, its development, success, and convenience for customers
+* readability and extensibility of my code, ability to follow SOLID principles while keeping code simple and effective
+* experience as a team leader, which gave me a lot of lessons on the process of managing developer teams and communicating with colleagues and customers
+* ability to analyze, break down and complete big tasks while keeping it manageable and verifiable; 
+* ability to detect the need for new technology, to find, learn it, and then implement it as a new part of the workflow
 
-My current main stack of technologies is .Net Core/Framework, NHibernate/Entity Framework, MS SQL Server/PostreSQL, NUnit, Redis, Javascript and also Prometheus, Grafana and ElasticSearch for monitoring and support. I've mostly worked with backend, but I'm ready and willing to learn new technologies as well, including expanding my experties in frontend side of development.
+My current main stack of technologies is .Net Core/Framework, NHibernate/Entity Framework, MS SQL Server/PostreSQL, NUnit, Redis, Javascript and also Prometheus, Grafana, and ElasticSearch for monitoring and support. I've mostly worked with backend, but I'm willing to learn new technologies as well, including expanding my expertise in frontend side of development.
 
 ## Work History
 
 **iiko**, Kazan, Russia / 2020 - Present
 
-Being part of the team that's responsible for maintaining and expanding the loyalty/marketing services of the ecosystem of iiko, among other things I've achived the following:
-* Improved stability of part of the legacy code
-* Created and finished two of the new .Net Core services that are now part of the ecosystem
-* Provided an API for different team that needed new ways to access some of our existing functionality
-* mentored two new employees that are now stable part of the team
-* finished experimental Xamarin project for mobile platform, 
-* offered an improvement in the process of code review and tasks planning for a development cycles
-* Introduced to the team solution for an automatic API documentation generation
+Being part of the team that's responsible for maintaining and expanding the loyalty/marketing services of the ecosystem of iiko, among other things I've achieved the following:
+* built new .Net Core microservices using technologies that were new to the team at the time: Entity Framework, Redis, automated OpenAPI documentation generation with NSwag
+* mentored new employees that are now a stable part of the team
+* improved our process of code review and task planning for development cycles
+* developed an experimental mobile-platform project using Xamarin
+* significantly improved stability and readability of many portions of a legacy codebase: notifications, system events logging, revision-based server-client synchronization of data, and other
 
-My current day-to-day tasks are:
-* Evaluation, planning and development of new functionality to cover new demanded customer needs
-* Search and analyze customer issues by interacting with the customer support team
-* Stabilization and optimization of legacy solutions and services, code refactoring to support its extensibility
-* Separating some of the functionality from the legacy monolithic service into new .net core services deployed in Docker, thus ensuring greater stability and scalability of the ecosystem as a whole
-* Research and integration of new technologies for the team when there is a need for them
-* Mentoring new team members when they join the team, getting them to know the project, its specifics and approaches adopted by the team 
-
-The process of completing tasks often includes:
-* Interaction with other teams responsible for individual services of the iiko ecosystem, including thinking through the interaction of services with each other
-* Unit testing using NUnit
-* Writing and optimizing database queries (Sql Server, PostrgeSQL) using NHibernate and Entity Framework
-* Configuring Data Caching with Redis 
-* Analysis of logs and system indicators using Serilog logging, ElasticSearch, Prometheus, Grafana
+My tasks also often include fixing customer issues by interacting with the customer support team, designing APIs, refactoring legacy code, and developing new features that are requested by customers. 
 
 **KOMIS**, Kazan, Russia / 2018 - 2020
 
-I was mainly engaged in the development of desktop software for accounting visitors, monitoring and managing security systems of an office building, using WPF, PostreSQL and Entity Framework.
+I was mainly engaged in the development of desktop software for accounting visitors, monitoring and managing security systems of an office building, using WPF, PostgreSQL, and Entity Framework.
 
-Starting as a junior developer in a small one-man Unity project, I've sucessfully completed it, transferred to a bigger team developing desktop software, became the initiator of the introduction of code review practice, and ended up as team leader, managing small team of three other developers. So naturally, aside from technological skills, I gained experience in task and developers managing, mentoring, improved planning and task decomposition skills.
+Starting as a junior developer in a small one-man Unity project, I've successfully completed it, transferred to a bigger team developing desktop software, became the initiator of the introduction of code review practice, introduced the team to Entity Framework and Dapper, and ended up as team leader, managing a small team of three other developers. So naturally, aside from technological skills, I gained experience in task and developer managing, mentoring, and improved planning and task decomposition skills.
 
 ## Education
 
@@ -65,7 +55,7 @@ Institute of Computational Mathematics and Information Technologies, Kazan Feder
 
 ## Additional info
 
-As a hobby, I studied game engine Unity for some game prototypes, learned about 3D animation, game design, and also succesfully learned Blender, Substance Painter and other 3D software while creating 3D models.
+As a hobby, I studied game engine Unity for some game prototypes, learned about 3D animation, and game design, and also successfully learned Blender, Substance Painter, and other 3D software while creating 3D models.
 
 ## Contact
 
@@ -73,4 +63,4 @@ As a hobby, I studied game engine Unity for some game prototypes, learned about 
 
 <!-- ### Footer
 
-Last updated: March 2022 -->
+Last updated: April 2022 -->
