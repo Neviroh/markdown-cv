@@ -5,39 +5,50 @@ title: Vladislav Lipatov
 # Vladislav Lipatov
 .Net Developer
 
-## Currently
+## Summary
 
-At [iiko](https://iikosoftware.com), developing powerfull loyalty system for restaurants of any kind to keep and expand customers count using marketing campaigns, discounts, bonuses programs, notifications etc.
+I'm a backend .Net developer with leadership experience, who loves to write clean code and strives to constantly improve his projects, his team and himself.
 
-Specialized in backend development of .Net core services.
+Main skills:
+* .Net stack: .Net Core/Framework, writing .Net Core services
+* Databases and storage:  MS SQL Server/PostgreSQL (using Dapper/NHibernate/Entity Framework), Redis (StackExchange), ElasticSearch
+* Unit and integrational testing (using NUnit/xUnit), familiarity with TDD practices
+* Monitoring and support: Prometheus, Grafana
+* Cloud computing: actively learning Azure and general cloud computing principles
+* Working in an Agile environment
 
 In my opinion, my main strengths are: 
-* initiative, genuine care about the product, its development, success, and convenience for customers
-* readability and extensibility of my code, ability to follow SOLID principles while keeping code simple and effective
-* experience as a team leader, which gave me a lot of lessons on the process of managing developer teams and communicating with colleagues and customers
-* ability to analyze, break down and complete big tasks while keeping it manageable and verifiable; 
-* ability to detect the need for new technology, to find, learn it, and then implement it as a new part of the workflow
-
-My current main stack of technologies is .Net Core/Framework, NHibernate/Entity Framework, MS SQL Server/PostreSQL, NUnit, Redis, Javascript and also Prometheus, Grafana, and ElasticSearch for monitoring and support. I've mostly worked with backend, but I'm willing to learn new technologies as well, including expanding my expertise in frontend side of development.
+* Readability and extensibility of my code, ability to follow SOLID principles while keeping code simple and effective
+* Ability and strive to learn: I often find, learn and propose new technologies and patterns to a team
+* Initiative, genuine care about the product, its success and convenience for customers
+* Experience as a team leader, which gave me a lot of lessons on the process of managing developer teams and communicating with colleagues and customers
+* Ability to analyze, break down and complete big tasks while keeping them manageable and verifiable;
 
 ## Work History
 
 **iiko**, Kazan, Russia / 2020 - Present
 
-Being part of the team that's responsible for maintaining and expanding the loyalty/marketing services of the ecosystem of iiko, among other things I've achieved the following:
-* built new .Net Core microservices using technologies that were new to the team at the time: Entity Framework, Redis, automated OpenAPI documentation generation with NSwag
-* mentored new employees that are now a stable part of the team
-* improved our process of code review and task planning for development cycles
-* developed an experimental mobile-platform project using Xamarin
-* significantly improved stability and readability of many portions of a legacy codebase: notifications, system events logging, revision-based server-client synchronization of data, and other
+Currently at [iiko](https://iikosoftware.com), developing a powerful loyalty system for restaurants of any kind to keep and expand customer count using marketing campaigns, discounts, bonuses programs, notifications etc.
 
-My tasks also often include fixing customer issues by interacting with the customer support team, designing APIs, refactoring legacy code, and developing new features that are requested by customers. 
+* As part of the process of migrating monolithic system to a microservice architecture, I built new .Net Core microservices that improved the stability of system events reports and part of the public API 
+* Integrated automated OpenAPI documentation generation with NSwag to our process, which made debugging and testing of APIs a lot easier and faster
+* Integrated Redis to our tech stack, solving the problem of effective caching for Docker-based microservices
+* Mentored new developers, helping them familiarize themselves with our project and become a stable part of the team
+* Suggested adjustments to our Agile process by adding a specific period for task decomposition and system design discussions, which were approved and made our plans more reliable
+* Improved monitoring for our notification system, which allowed us to identify the reason for a crucial problem that bothered our clients for a long time, and fix it 
+* Significantly improved stability and readability of code for notifications, system events logging, and server-client synchronization, which fixed some major bugs and allowed the team to spend much less time on debugging problems with them later
+
+My tasks also often include fixing customer issues by interacting with the customer support team, designing APIs, refactoring legacy code, and developing new features that are requested by customers.
 
 **KOMIS**, Kazan, Russia / 2018 - 2020
 
 I was mainly engaged in the development of desktop software for accounting visitors, monitoring and managing security systems of an office building, using WPF, PostgreSQL, and Entity Framework.
 
-Starting as a junior developer in a small one-man Unity project, I've successfully completed it, transferred to a bigger team developing desktop software, became the initiator of the introduction of code review practice, introduced the team to Entity Framework and Dapper, and ended up as team leader, managing a small team of three other developers. So naturally, aside from technological skills, I gained experience in task and developer managing, mentoring, and improved planning and task decomposition skills.
+* Starting as a junior developer in a small one-man Unity project, successfully completed it and then transferred to another project during the start of the development
+* Was the one who initiated the code review practice, and convinced the team of its usefulness, which resulted in a much more error-proof process of developing and shipping the software to the client
+* Updated codebase by introducing Entity Framework and Dapper instead of the internal ORM, which significantly increased developing speed for all SQL-related tasks
+* After some time took the place of a team leader and was able to bring the product to the state of full functionality, allowing the client to use it in a production environment
+
 
 ## Education
 
@@ -55,9 +66,11 @@ Institute of Computational Mathematics and Information Technologies, Kazan Feder
 
 ## Additional info
 
-As a hobby, I studied game engine Unity for some game prototypes, learned about 3D animation, and game design, and also successfully learned Blender, Substance Painter, and other 3D software while creating 3D models.
+As a hobby, I studied game engine Unity for some game prototypes, learned about 3D animation, and game design, and also successfully learned Blender, Substance Painter, and other 3D software while creating 3D models. Some of my 3D models can be found on [Artstation](https://www.artstation.com/neviroh).
 
 ## Contact
+
+<lipatov.vladislav95@yandex.ru>
 
 <neviroh@gmail.com>
 
