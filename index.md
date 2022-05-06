@@ -70,9 +70,7 @@ As a hobby, I studied game engine Unity for some game prototypes, learned about 
 
 ## Contact
 
-<lipatov.vladislav95@yandex.ru>
-
-<neviroh@gmail.com>
+<vladislavlipatov95@gmail.com>
 
 <!-- ### Footer
 
