@@ -11,10 +11,15 @@ I'm a backend .Net developer with leadership experience, who loves to write clea
 
 Main skills:
 * .Net stack: .Net Core/Framework, writing .Net Core services
+
 * Databases and storage:  MS SQL Server/PostgreSQL (using Dapper/NHibernate/Entity Framework), Redis (StackExchange), ElasticSearch
+
 * Unit and integrational testing (using NUnit/xUnit), familiarity with TDD practices
+
 * Monitoring and support: Prometheus, Grafana
+
 * Cloud computing: actively learning Azure and general cloud computing principles
+
 * Working in an Agile environment
 
 In my opinion, my main strengths are: 
